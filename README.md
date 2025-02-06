@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @spoiled72
-- 👀 I’m interested in crypto gpu mining. I have build several rigs following BBT and Voskcoin. 
-- 🌱 I’m currently learning AI works and chatGPT...
-- 💞️ I’m not looking to collaborate right now. 
-- 📫 How to reach me ...
+- 👀 WOW! 2025: Started Computer Systems Technology! Next 2 years learning programing!!
+- I’ve built several crypto rigs thru 2017-2019.  
+- 🌱 I’m currently learning the baskics of computer operation, programing, and IT repair. Trying to incorporate AI into some of my learning.
+- 💞️ I’m just starting to learn and expand my repository thru George Brown College. 
+- 📫 Reach me on here if ya have the need!!
 
 <!---
 spoiled72/spoiled72 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
